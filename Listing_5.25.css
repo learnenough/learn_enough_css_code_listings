@@ -1,0 +1,17 @@
+.
+.
+.
+/* HEADER STYLES */
+.
+.
+.
+.header-nav > li:first-child a:hover {
+  color: #fff;
+}
+.header-logo {
+  bottom: 50px;
+  position: absolute;
+}
+.
+.
+.

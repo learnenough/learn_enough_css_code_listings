@@ -1,0 +1,20 @@
+.
+.
+.
+/* HEADER STYLES */
+.
+.
+.
+.header-logo:hover,
+.header-logo:active {
+  opacity: 0.5;
+}
+.header-nav > li:first-child a {
+  color: #ed6e2f;
+}
+.header-nav > li:first-child a:hover {
+  color: #000;
+}
+.
+.
+.
