@@ -1,19 +1,13 @@
 .
 .
 .
+/* MOBILE MENU */
+.mobile-menu-check,
+.show-mobile-menu {
+  display: none;
+}
+
 @media (max-width: 800px) {
-  .
-  .
-  .
-  /* HEADER STYLES */
-  .
-  .
-  .
-  /* MOBILE MENU */
-  .mobile-menu-check,
-  .show-mobile-menu {
-    display: none;
-  }
   .
   .
   .
